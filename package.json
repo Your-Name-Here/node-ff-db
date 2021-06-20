@@ -1,0 +1,23 @@
+{
+  "name": "@your-name-here/node-ff-db",
+  "version": "1.0.0",
+  "description": "A flat-file database abstraction wrapper.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-events": "^0.0.3",
+    "eslint": "^7.28.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
