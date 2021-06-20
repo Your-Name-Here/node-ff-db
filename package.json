@@ -1,13 +1,16 @@
 {
-  "name": "@your-name-here/node-ff-db",
+  "name": "node-ff-db",
   "version": "1.0.0",
   "description": "A flat-file database abstraction wrapper.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Your-Name-Here/node-ff-db.git"
+  },
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^9.0.0",
     "chai": "^4.3.4",
@@ -19,5 +22,5 @@
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
